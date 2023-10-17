@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": "2",
+            "produk": "Grayscale",
+            "first_name": "gray",
+            "last_name": "scale",
+            "avatar": "https://picsum.photos/200/300?grayscale"
+        },
+        {
+            "id": "3",
+            "produk": "blur",
+            "first_name": "blur",
+            "last_name": "blur",
+            "avatar": "https://picsum.photos/200/300/?blur"
+        },
+        {
+            "id": "4",
+            "produk": "mercusuar",
+            "first_name": "menara",
+            "last_name": "tower",
+            "avatar": "https://picsum.photos/id/870/200/300?grayscale&blur=2"
+        },
+        {
+            "id": "5",
+            "produk": "gibson les paul",
+            "first_name": "gibson",
+            "last_name": "les paul",
+            "avatar": "http://localhost/api/img/les paul.jpeg"
+        },
+        {
+            "id": "6",
+            "produk": "gibson double neck",
+            "first_name": "gibson",
+            "last_name": "double neck",
+            "avatar": "http://localhost/api/img/double neck.jpeg"
+        },
+        {
+            "id": "7",
+            "produk": "gibson sg",
+            "first_name": "gibson",
+            "last_name": "sg",
+            "avatar": "http://localhost/api/img/sg.jpeg"
+        }
+    ]
+}
